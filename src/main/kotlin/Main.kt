@@ -17,7 +17,7 @@ fun main(args: Array<String>) {
     val resultado2 = dividir(x2, y2)
     println("o resultado da divisao é = $resultado2")
 
-    val x3 = 14
+    val x3 = 15
     val y3 = 2
     val resultado3 = subtrair(x3, y3)
     println("o resultado de subtrair é = $resultado3")
