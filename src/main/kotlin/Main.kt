@@ -21,7 +21,6 @@ fun main(args: Array<String>) {
     val y3 = 2
     val resultado3 = subtrair(x3, y3)
     println("o resultado de subtrair é = $resultado3")
-
 }
 // Metodo Para somar Dois numeros.
 fun soma (x: Int, y:Int) = x+y
